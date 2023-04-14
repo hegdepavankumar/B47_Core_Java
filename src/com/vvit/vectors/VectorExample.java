@@ -17,7 +17,8 @@ public class VectorExample {
          //Adding elements using addElement() method of Vector  
          vec.addElement("Rat");  
          vec.addElement("Cat");  
-         vec.addElement("Deer");  
+         vec.addElement("Deer");
+         vec.add("Rabbit");
            
          System.out.println("Elements are: "+vec);  
       }  
