@@ -1,4 +1,4 @@
-package jdbcprog;
+package com.vvit.jdbcprog;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
